@@ -5194,6 +5194,7 @@
         "com.mercadolibre.android.nfcpayments",
         "com.mercadolibre.android.on.demand.resources",
         "com.mercadolibre.android.security:security_preferences",
+        "com.mercadolibre.android.wallet.home",
         "com.mercadopago.android.configurer",
         "com.mercadopago.android.configurer.smartpos"
       ],
